@@ -42,11 +42,13 @@ Header:
 Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM :
-![Uploading image.png…]()
+<img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/327f67c3-55ed-4819-bde2-9915ff03e5df" />
 
  
 
 # CIRCUIT DIAGRAM:
+![Uploading image.png…]()
+
  
  
 # PROGRAM:
