@@ -42,6 +42,8 @@ Header:
 Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM :
+![Uploading image.png…]()
+
  
 
 # CIRCUIT DIAGRAM:
