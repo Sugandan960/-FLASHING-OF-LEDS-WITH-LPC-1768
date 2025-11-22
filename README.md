@@ -47,7 +47,7 @@ Delay.h, stdutils.h, gpioi.h
  
 
 # CIRCUIT DIAGRAM:
-![Uploading image.png…]()
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/59f532fe-e524-445a-81b1-b0a15dbb1a93" />
 
  
  
@@ -97,6 +97,9 @@ DELAY_ms(10);
 
  
 # Output:
+![Uploading image.png…]()
+
+RESULT:
 
 
 
