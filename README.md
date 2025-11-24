@@ -97,7 +97,7 @@ DELAY_ms(10);
 
  
 # Output:
-![Uploading image.png…]()
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/d0bd972f-98dd-4047-8eea-2e0ece19bc36" />
 
 
 RESULT:
