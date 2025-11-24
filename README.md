@@ -99,6 +99,7 @@ DELAY_ms(10);
 # Output:
 ![Uploading image.png…]()
 
+
 RESULT:
 Thus,an embedded C program is written in order to interface PWM with LPC1768.
 
