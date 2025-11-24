@@ -47,7 +47,7 @@ Delay.h, stdutils.h, gpioi.h
  
 
 # CIRCUIT DIAGRAM:
-<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/59f532fe-e524-445a-81b1-b0a15dbb1a93" />
+<img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/74fbcc8a-6ac2-4a77-97c3-5e1b09da5fa0" />
 
  
  
