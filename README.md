@@ -42,9 +42,9 @@ Header:
 Delay.h, stdutils.h, gpioi.h
 
 # PIN DIAGRAM :
-<img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/327f67c3-55ed-4819-bde2-9915ff03e5df" />
 
- 
+ <img width="619" height="369" alt="image" src="https://github.com/user-attachments/assets/d89aba7d-1bb9-4212-8b89-45240035c017" />
+
 
 # CIRCUIT DIAGRAM:
 <img width="1071" height="542" alt="image" src="https://github.com/user-attachments/assets/74fbcc8a-6ac2-4a77-97c3-5e1b09da5fa0" />
